@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+   background: linear-gradient(90deg, #e66465, #9198e5);
+    
+
+}
+    padding-left: 100px;
+}
+
+
+p{
+    
+    display: inline;
+    padding: 5px;
+}
+
+section {
+    padding: 10px;
+    display: block;
+}
+
+#wrapper{
+    display: block;
+}
+
+.button{
+    cursor: pointer;
+    
+}
+
+ .button:hover{
+    background-color: rgb(235, 235, 140);
+}
